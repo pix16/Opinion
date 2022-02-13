@@ -1,4 +1,4 @@
-A Contract that allows making propositions and voting on them.
+A Voting Station Smart Contract that allows making propositions and voting on them.
  - Proposals support several options: Yes/No, 5 stars, custom choices.
  - Voter can get a virtual sticker as an NFT.
  - Another NFT can be used a a virtual voter card.
